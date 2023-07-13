@@ -29,10 +29,11 @@ namespace SimpleProject
         {
             _salary = salary;
         }
-        public void Print()
+        /*public void Print()
         {
             WriteLine($"Заработная плата: {_salary} $");
         }
+        */
     }
 
 

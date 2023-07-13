@@ -104,5 +104,6 @@ namespace SimpleProject
                 $"{ student.GetType().IsClass}.");
             WriteLine($"Можно ли получить доступ к объекту из кода за пределами сборки - " +
                 $"{student.GetType().IsVisible}.");
-}
+        }
+    }
 }
